@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://dvc@35.194.53.251/home/dvc/storage
+    keyfile = /Users/ivan/Downloads/dvc_gcp_remotes_rsa

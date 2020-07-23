@@ -1,2 +1,4 @@
 .venv/
 /model.pkl
+/scores.json
+/prc.json
